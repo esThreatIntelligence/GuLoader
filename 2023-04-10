@@ -1,23 +1,9 @@
--Blotlg.vbs-
-d79593a6fb6c636a50334085b9d6018b
-
--info.pdf-
-cc6440a764050a8adf530efe2a989d25
-
--PowerShell obfuscated script-
-d2b6255b7076eb754921121489804fee
-
--Shellcode-
-dfb72ba81b0f765d1676f856d6af82c7
-
--Decrypted shellcode-
-d7baac59e5aa6122621c31f0afb49119
-
--C2 (opendir)-
-109.206.240[.]67
-
--Remcos RAT C2	
-xlongactive[.]su
-
--Password-protected ZIP archive-
-fa0b3b0e5b7b5aa9a2da7bebbc15ab0e944d984b 
+What,IOC
+Blotlg.vbs,d79593a6fb6c636a50334085b9d6018b
+info.pdf,cc6440a764050a8adf530efe2a989d25
+PowerShell obfuscated script,d2b6255b7076eb754921121489804fee
+Shellcode,dfb72ba81b0f765d1676f856d6af82c7
+Decrypted shellcode,d7baac59e5aa6122621c31f0afb49119
+C2 (opendir),109.206.240.67
+Remcos RAT C2,xlongactive.su
+Password-protected ZIP archive,fa0b3b0e5b7b5aa9a2da7bebbc15ab0e944d984b 
